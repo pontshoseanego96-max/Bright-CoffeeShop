@@ -8,7 +8,7 @@ Excel- data visualization and dashboard creation
 PowerPoint- Presentation of insides and final report
 
 Key insides 
-Morningd sales contributes revenue acress branches 
+Morning sales contributes revenue acress branches 
 coffee,tea and bakery cotributing the most revenue categories under product category.
 Hell's kitchen had the most sales at 34% of the overral sales.
 
