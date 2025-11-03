@@ -1,5 +1,5 @@
 # Bright Coffee Shop
-This project demonstrate a complete data analytica workflow from planning and cleaning to visualization and presentation .
+This project demonstrate a complete data analytic workflow from planning and cleaning to visualization and presentation .
 
 TOOLS 
 MIRO - Project Planning, brainstoming  and workflow mapping 
